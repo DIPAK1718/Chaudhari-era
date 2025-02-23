@@ -1,2 +1,2 @@
 # Chaudhari-era
-This is my first repository.
+This Is My first Git Repository.
